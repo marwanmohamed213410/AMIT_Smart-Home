@@ -14,4 +14,14 @@ This smart home system allows remote control of various appliances using a mobil
 ✅ **LCD & Keypad:** Local control for added convenience  
 ✅ **Security System:** Admin-user login authentication  
 ✅ **EEPROM Storage:** Saves settings and user data  
-✅ **Temperature-Based AC Control:** Automatic adjustments for comfort     
+✅ **Temperature-Based AC Control:** Automatic adjustments for comfort  
+
+## ⚙ Components:  
+  - 24C08 EEPROM, or use the internal.  
+  - Bluetooth module HC-05 or TTL (PL2003 or CH340 or CP2102).  
+  - 5 transistors and relays (Not mandatory; they can be replaced by LEDs).  
+  - 1 transistor and Solid-state Relay for dimming circuit.  
+  - LM35 temperature sensor or equivalent.  
+  - 2 NPN and DC motor.  
+  - Keypad & Lm01602A Character LCD.  
+  - Servo motor.  
