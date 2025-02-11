@@ -14,19 +14,7 @@ This smart home system allows remote control of various appliances using a mobil
 ✅ **LCD & Keypad:** Local control for added convenience  
 ✅ **Security System:** Admin-user login authentication  
 ✅ **EEPROM Storage:** Saves settings and user data  
-✅ **Temperature-Based AC Control:** Automatic adjustments for comfort  
-
-## ⚙️ Technologies Used  
-- **Microcontroller:** [Specify your board, e.g., Arduino Mega]  
-- **Programming Languages:** C, Embedded C  
-- **Communication Protocols:** UART, I2C, SPI (if applicable)  
-- **Components:** Relays, LCD, Keypad, Temperature Sensor, EEPROM  
-
-## 🛠 Setup & Installation  
-1. **Hardware Assembly:** Connect components as per the circuit diagram  
-2. **Upload Firmware:** Flash the Arduino code using the Arduino IDE  
-3. **Connect to Interface:** Ensure the mobile/laptop is communicating with the system  
-4. **Test Functionality:** Check lights, door, and AC control  
+✅ **Temperature-Based AC Control:** Automatic adjustments for comfort     
 
 ## 🚧 Issues & Improvements  
 - [ ] Debug and fix system errors  
