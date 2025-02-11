@@ -15,8 +15,3 @@ This smart home system allows remote control of various appliances using a mobil
 ✅ **Security System:** Admin-user login authentication  
 ✅ **EEPROM Storage:** Saves settings and user data  
 ✅ **Temperature-Based AC Control:** Automatic adjustments for comfort     
-
-## 🚧 Issues & Improvements  
-- [ ] Debug and fix system errors  
-- [ ] Improve security measures  
-- [ ] Enhance UI for remote access 
