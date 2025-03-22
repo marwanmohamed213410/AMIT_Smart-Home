@@ -76,7 +76,7 @@ This Smart Home system is designed to provide remote and local control over hous
 
 ### **Hardware Setup**
 1. Connect all components according to the circuit diagram.
-2. Upload the microcontroller code via Arduino IDE.
+2. Upload the microcontroller code.
 3. Power up the system and test functionalities.
 
 ### **Software Setup**
