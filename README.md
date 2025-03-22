@@ -53,7 +53,7 @@ This Smart Home system is designed to provide remote and local control over hous
 ---
 
 ## **Hardware Components**
-1. **Microcontroller** (Arduino or equivalent)
+1. **Microcontroller**
 2. **Memory:** 24C08 EEPROM (or internal EEPROM)
 3. **Communication Modules:** HC-05 Bluetooth or TTL (PL2003/CH340/CP2102)
 4. **Relays & Transistors:** 5 transistors & relays (or LEDs for simulation)
